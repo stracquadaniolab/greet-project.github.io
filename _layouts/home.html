@@ -34,15 +34,6 @@
     </ul>
   </div>
 
-  <div class="container text-dark">
-    <h3>Blog posts</h3>
-    <ul>
-      {% for post in site.posts limit: 5 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a class="text-dark" href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
-
   {% include _footer.html %}
 
 </body>
