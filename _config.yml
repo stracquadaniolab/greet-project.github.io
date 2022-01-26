@@ -1,11 +1,11 @@
 #
 # _config.yml file
 #
-title: Stracquadanio Laboratory at the University of Edinburgh 
+title: Generative Recombinant Enzyme Engineering for Therapeutics (GREET) Project
 author: Giovanni Stracquadanio
 email: giovanni.stracquadanio@ed.ac.uk
 description: > #
-  A data-driven synthetic biology lab using machine learning and synthetic biology to understand cancer biology.
+  Generative Recombinant Enzyme Engineering for Therapeutics (GREET) Project.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 paginate: 5
