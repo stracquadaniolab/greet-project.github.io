@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<!-- loading the header -->
+{% include _head.html %}
+
+<body>
+  <!-- including header and navbar -->
+  {% include _header.html %}
+  <div class="container p-4 text-dark">
+    <img src="/images/jumbotron.png" width='100%' />
+    <p>{{ content }}</p>
+  </div>
+
+  <div class="container text-dark">
+    <h3>Recent selected publications</h3>
+    <ul>
+      {% for paper in site.data.publications limit:10 %}
+      {% if paper.highlight == 'true' %}
+      <li>
+        <a class="text-dark" href="http://dx.doi.org/{{paper.doi}}">{{ paper.title}}</a>. <em>{{paper.journal}}</em>,
+        {{paper.year}}.
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="container text-dark">
+    <h3>Latest news</h3>
+    <ul>
+      {% for line in site.data.news limit: 10 %}
+      <li><span>{{ line.date | date_to_string }}</span> &raquo; {{ line.text }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="container text-dark">
+    <h3>Blog posts</h3>
+    <ul>
+      {% for post in site.posts limit: 5 %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a class="text-dark" href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  {% include _footer.html %}
+
+</body>
+
+</html>

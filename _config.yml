@@ -1,0 +1,20 @@
+#
+# _config.yml file
+#
+title: Stracquadanio Laboratory at the University of Edinburgh 
+author: Giovanni Stracquadanio
+email: giovanni.stracquadanio@ed.ac.uk
+description: > #
+  A data-driven synthetic biology lab using machine learning and synthetic biology to understand cancer biology.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock

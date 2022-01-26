@@ -1,0 +1,156 @@
+[{
+        "name": "Evgenii Lobzaev",
+        "area": "Deep generative models for enzyme engineering",
+        "pic": "/images/team-el.jpg",
+        "page": "/people/elobzaev",
+        "role": "PhD student",
+        "status": "active",
+        "affiliation": "Biomedical AI CDT, University of Edinburgh",
+        "biography": "I am a PhD student of the Biomedical AI CDT funded by UKRI. My research work focuses on developing variational methods to design human enzymes for treating rare enzymatic disorders. Prior to this, I obtained a BSc in Economics/Mathematics, St.Petersburg State University of Engineering and Economics followed by a MSc in Finance from University of Maryland. I worked for almost 4 years in World Bank in Washington,DC as a quantitative analyst before I decided to change my career path to Data Science. I obtained MSc Statistics and Data Science from the University of Edinburgh and then immediately got into Biomedical AI CDT. Outside of work I like playing tennis, reading, going to a theatre or travelling."
+    },
+    {
+        "name": "Anima Sutradhar",
+        "area": "Deep learning models for codon optimisation",
+        "pic": "/images/team-as.png",
+        "page": "/people/asutradhar",
+        "role": "PhD student",
+        "status": "active",
+        "affiliation": "EastBIO CDT, University of Edinburgh",
+        "biography": "I am a PhD student on the EASTBIO DTP, funded jointly by BBSRC and Fujifilm Diosynth Biotechnologies. 
+        I research codon optimisation for heterologous protein expression using machine learning and NLP techniques. Broadly speaking, I am trying to teach computers to understand the
+        language of biological sequences. Prior to this, I completed my BSc in Molecular Biology at UCL, worked as a policy officer on climate change at BEIS, and then completed my Bioinformatics MSc at QMUL. When I am not doing science, I love to star-gaze, hike, write songs and illustrate. My science communication heroes are Jacob Bronowski, Carl Sagan and Kurzgesagt."
+    },
+    {
+        "name": "Aidan Marnane",
+        "area": "Graph neural networks for patients' networks",
+        "pic": "/images/team-am.jpg",
+        "page": "/people/amarnane",
+        "role": "PhD student",
+        "status": "active",
+        "affiliation": "Data Science CDT, University of Edinburgh", 
+        "biography": "I am PhD student on the UKRI EPSRC CDT in Datascience. My research work focuses on semi-supervised learning and clustering over patients' networks. 
+        Prior to this, I obtained a BSc in Mathematics from the University College Cork, and an MSc(R) in Datascience from the University of Edinburgh."
+    },
+    {
+        "name": "Martyna Kasprzik",
+        "area": "Machine learning guided selection of synthetic enzymes for replacement therapies",
+        "pic": "/images/team-mm.png",
+        "page": "/people/mkasprzik",
+        "role": "Honours student, BSc Molecular Genetics",
+        "status": "active",
+        "affiliation": "Data Science CDT, University of Edinburgh", 
+        "biography": "I am a fourth year student doing BSc Molecular Genetics at University of Edinburgh and I joined the lab to undertake my Honours Research Project. I am very interested in bioinformatics, particularly in using artificial intelligence in clinical research. My work will focus on using machine learning to assess synthetic enzymes for replacement therapies. I am currently also participating in a EuCanImage project - a European cancer imaging platform for AI in oncology. In my free time I enjoy reading and painting."
+    },
+    {
+        "name": "Viola Fanfani",
+        "area": "Cancer genetics",
+        "pic": "/images/team-vf.png",
+        "page": "/people/vfanfani",
+        "role": "PhD student",
+        "status": "alumni",
+        "years": "2017-2021",
+        "affiliation": "University of Edinburgh",
+        "current_position": "Postdoc, Harvard University, USA"
+    },
+    {
+        "name": "Angelo Gaeta",
+        "area": "Computational synthetic biology",
+        "pic": "/images/team-ag.png",
+        "page": "/people/agaeta",
+        "role": "PhD student",
+        "status": "alumni",
+        "years": "2017-2021",
+        "affiliation": "University of Edinburgh",
+        "current_position": "Research technologist, Illumina, UK."
+    },
+    {
+        "name": "Fabio Cassano",
+        "area": "Cancer network biology",
+        "pic": "/images/team-fc.png",
+        "page": "/people/fcassano",
+        "role": "Postdoc",
+        "status": "alumni",
+        "years": "2019-2020",
+        "affiliation": "University of Edinburgh",
+        "current_position": "University of Bari, Italy"
+    },
+    {
+        "name": "David Zihala",
+        "area": "Cancer genomics",
+        "pic": "/images/team-dz.png",
+        "page": "/people/dzihala",
+        "role": "Visiting postdoc",
+        "status": "alumni",
+        "years": "2020",
+        "affiliation": "University of Ostrava",
+        "current_position": "Postdoc, University of Ostrava, CZ"
+    },
+    {
+        "name": "Martina Zatopkova",
+        "area": "Cancer genomics",
+        "pic": "/images/team-mz.png",
+        "page": "/people/mzatopkova",
+        "role": "PhD Student",
+        "years": "2017-2021",
+        "status": "alumni",
+        "affiliation": "University of Ostrava",
+        "current_position": "Scientist, DNANexus, CZ"
+    },
+    {
+        "name": "Alex Ball",
+        "area": "Deep Learning for enzyme classification",
+        "pic": "/images/team-grey.png",
+        "role": "MSc student",
+        "status": "alumni",
+        "affiliation": "University of Edinburgh",
+        "years": "2021",
+        "current_position": ""
+    },
+    {
+        "name": "Daniel Biro",
+        "area": "Deep Learning for variant calling",
+        "pic": "/images/team-grey.png",
+        "role": "MInf student",
+        "status": "alumni",
+        "affiliation": "University of Edinburgh",
+        "years": "2020-2021",
+        "current_position": ""
+    },
+    {
+        "name": "Hugo Madge-Leon",
+        "area": "eQTL analysis of Cancer SNPs",
+        "role": "Research intern",
+        "status": "alumni",
+        "pic": "/images/team-hm.png",
+        "affiliation": "University of Edinburgh",
+        "years": "2020",
+        "current_position": "MSc student, ETH Zurich, Switzerland"
+    },
+    {
+        "name": "Daniele Cotton",
+        "area": "Breast cancer heritability",
+        "role": "Research Intern",
+        "status": "alumni",
+        "affiliation": "Imperial College London",
+        "years": "2020",
+        "current_position": "Medical student, Imperial College London, UK"
+    },
+    {
+        "name": "Riley Williams",
+        "area": "Deep learning",
+        "role": "MSc student",
+        "status": "alumni",
+        "affiliation": "University of Essex",
+        "years": "2018",
+        "current_position": "Security Engineer, Sophos, UK"
+    },
+    {
+        "name": "William Miguel Rosado",
+        "area": "Biological network analysis",
+        "role": "MSc student",
+        "status": "alumni",
+        "affiliation": "University of Essex",
+        "years": "2018",
+        "current_position": "Developer, Kalypso Rockwell, MX"
+    },
+]
