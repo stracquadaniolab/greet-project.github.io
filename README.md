@@ -1,2 +1,3 @@
-# stracquadaniolab.github.io
-Stracquadanio Lab Website at University of Edinburgh
+# www.greet-project.org
+
+The Generative Recombinant Enzyme Engineering for Therapeutics Project website.
