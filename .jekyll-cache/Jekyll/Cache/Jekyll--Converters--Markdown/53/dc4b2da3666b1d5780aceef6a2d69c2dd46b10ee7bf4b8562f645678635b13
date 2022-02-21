@@ -1,18 +1,13 @@
----
-layout: default
-title: Research
----
-
-High-throughput technologies have generated a deluge of data describing living
+I"¼<p>High-throughput technologies have generated a deluge of data describing living
 organisms at unprecedented resolution. The wealth and diversity of biological
 data available provide unique opportunities to understand the design principles
 underpinning cellular life. The democratisation of DNA synthesis allow us to use
 these design rules to engineer new designer systems ranging from genes to
-chromosomes.
+chromosomes.</p>
 
-Our long term goal is to reverse-engineer biological systems to create
+<p>Our long term goal is to reverse-engineer biological systems to create
 generative algorithms to design, build and test biochemical agents for addressing
-healthcare and industrial biotechnology problems.
+healthcare and industrial biotechnology problems.</p>
 
 <div class="row">
     <!-- rare diseases -->
@@ -26,7 +21,7 @@ healthcare and industrial biotechnology problems.
         the defective enzyme through intravenous injections. However, enzymes loose 
         catalytic activity in blood and often cause a severe immune response; moreover,
         current manufacturing technologies have low yield, which dramatically raises the cost of 
-        treatment.<br/>
+        treatment.<br />
 
         Here we are building on our expertise in machine learning and synthetic genomics 
         to design and build human enzymes at scale. Our goal is to establish technologies 
@@ -35,13 +30,17 @@ healthcare and industrial biotechnology problems.
         provide new sustainable treatment for patients with rare metabolic disorders.
     </div>
     <div class="col">
-        <img src="/images/research-enzyme.png" width="90%">
+        <img src="/images/research-enzyme.png" width="90%" />
     </div>
 
 </div>
 
-<br/>
+<p><br /></p>
 <h2>Funding</h2>
-<img src="/images/logo-epsrc.png" height="84px"/> 
-<img src="/images/logo-fuji.png" height="84px"/> 
-<img src="/images/logo-uoe.png" width="25%"/> 
+<p><img src="/images/logo-epsrc.png" height="84px" /> 
+<img src="/images/logo-bbsrc.png" height="84px" /> 
+<img src="/images/logo-fuji.png" height="84px" /> 
+<img src="/images/logo-wellcome.png" width="7%" /> 
+<img src="/images/logo-cdtai.png" width="25%" />
+<img src="/images/logo-uoe.png" width="25%" /></p>
+:ET

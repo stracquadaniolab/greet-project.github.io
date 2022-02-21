@@ -17,7 +17,7 @@
       {% for paper in site.data.publications limit:10 %}
       {% if paper.highlight == 'true' %}
       <li>
-        <a class="text-dark" href="http://dx.doi.org/{{paper.doi}}">{{ paper.title}}</a>. <em>{{paper.journal}}</em>,
+        <a class="text-dark" href="https://doi.org/{{paper.doi}}">{{ paper.title}}</a>. <em>{{paper.journal}}</em>,
         {{paper.year}}.
       </li>
       {% endif %}
