@@ -10,6 +10,21 @@
         <h1>{{page.title}}</h1>
         <p>{{ content }}</p>
 
+        <h3>Members</h3>
+        <div class="row p-2 mb-5">
+            {% for people in site.data.people %}
+            {% if people.role == 'member' %}
+            <div class="col-1 mb-4">
+                <img class="rounded-circle rounded-sm" src="{{people.pic}}" width="100%" />
+            </div>
+            <div class="col-11 mb-4">
+                <b>{{people.name}}</b><br />
+                <i>{{people.affiliation}}</i><br />
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+
         <h3>Scientific advisors</h3>
         <div class="row p-2 mb-5">
             {% for people in site.data.people %}
@@ -25,21 +40,7 @@
             {% endfor %}
         </div>
 
-        <h3>Members</h3>
-        <div class="row p-2 mb-5">
-            {% for people in site.data.people %}
-            {% if people.role != 'advisor' %}
-            <div class="col-1 mb-4">
-                <img class="rounded-circle rounded-sm" src="{{people.pic}}" width="100%" />
-            </div>
-            <div class="col-11 mb-4">
-                <b>{{people.name}}</b><br />
-                <i>{{people.role}}, {{people.affiliation}}</i><br />
-                Short bio: {{people.biography}}
-            </div>
-            {% endif %}
-            {% endfor %}
-        </div>
+
 
     </div>
     <!-- including footer -->

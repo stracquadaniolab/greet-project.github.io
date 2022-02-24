@@ -3,7 +3,7 @@
         "name": "Susan Rosser",
         "area": "Biologics production",
         "pic": "/images/team-unk.png",
-        "role": "advisor",
+        "role": "member",
         "status": "active",
         "affiliation": "Co-I and Chair in Synthetic Biology, University of Edinburgh"
     },
@@ -44,9 +44,9 @@
         "area": "Deep generative models for enzyme engineering",
         "pic": "/images/team-el.jpg",
         "page": "/people/elobzaev",
-        "role": "PhD student",
+        "role": "member",
         "status": "active",
-        "affiliation": "Biomedical AI CDT, University of Edinburgh",
+        "affiliation": "PhD student. Biomedical AI CDT, University of Edinburgh",
         "biography": "I am a PhD student of the Biomedical AI CDT funded by UKRI."
     },
     {
@@ -54,9 +54,9 @@
         "area": "Deep learning models for codon optimisation",
         "pic": "/images/team-as.png",
         "page": "/people/asutradhar",
-        "role": "PhD student",
+        "role": "member",
         "status": "active",
-        "affiliation": "EastBIO CDT, University of Edinburgh",
+        "affiliation": "PhD student. EastBIO DTP, University of Edinburgh",
         "biography": "I am a PhD student on the EASTBIO DTP, funded jointly by BBSRC and Fujifilm Diosynth Biotechnologies."
     }
 ]
