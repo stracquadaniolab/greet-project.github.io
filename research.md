@@ -39,9 +39,3 @@ at the University of Edinburgh (UoE). As a proof of concept, we will build the
 largest library of human a-GAL enzymes, to identify more effective therapeutic
 enzymes for Fabry's disease.
 
-<br/>
-<h2>Funding</h2>
-<img src="/images/logo-epsrc.png" height="84px"/>
-<img src="/images/logo-fuji.png" height="84px"/>
-<img src="/images/logo-ibioic.png" width="20%"/>
-<img src="/images/logo-uoe.png" width="25%"/>
