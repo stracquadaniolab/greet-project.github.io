@@ -1,4 +1,45 @@
-[{
+[
+    {
+        "name": "Joel Bader",
+        "area": "Variational Inference",
+        "pic": "/images/team-unk.png",
+        "role": "advisor",
+        "status": "active",
+        "affiliation": "Professor of Biomedical Engineering, Johns Hopkins University"
+    },
+    {
+        "name": "Dominic Campopiano",
+        "area": "Optimisation",
+        "pic": "/images/team-unk.png",
+        "role": "advisor",
+        "status": "active",
+        "affiliation": "Chair of Industrial Biocatalysis, University of Edinburgh"
+    },
+    {
+        "name": "Pietro Lio'",
+        "area": "Optimisation",
+        "pic": "/images/team-unk.png",
+        "role": "advisor",
+        "status": "active",
+        "affiliation": "Professor, Computer Science and Technology, University of Cambridge"
+    },
+    {
+        "name": "Panos Pardalos",
+        "area": "Optimisation",
+        "pic": "/images/team-unk.png",
+        "role": "advisor",
+        "status": "active",
+        "affiliation": "Professor in Industrial & Systems Engineering, University of Florida"
+    },
+    {
+        "name": "Susan Rosser",
+        "area": "Biologics production",
+        "pic": "/images/team-unk.png",
+        "role": "advisor",
+        "status": "active",
+        "affiliation": "Chair in Synthetic Biology, University of Edinburgh"
+    },
+    {
         "name": "Evgenii Lobzaev",
         "area": "Deep generative models for enzyme engineering",
         "pic": "/images/team-el.jpg",
@@ -6,7 +47,7 @@
         "role": "PhD student",
         "status": "active",
         "affiliation": "Biomedical AI CDT, University of Edinburgh",
-        "biography": "I am a PhD student of the Biomedical AI CDT funded by UKRI. My research work focuses on developing variational methods to design human enzymes for treating rare enzymatic disorders. Prior to this, I obtained a BSc in Economics/Mathematics, St.Petersburg State University of Engineering and Economics followed by a MSc in Finance from University of Maryland. I worked for almost 4 years in World Bank in Washington,DC as a quantitative analyst before I decided to change my career path to Data Science. I obtained MSc Statistics and Data Science from the University of Edinburgh and then immediately got into Biomedical AI CDT. Outside of work I like playing tennis, reading, going to a theatre or travelling."
+        "biography": "I am a PhD student of the Biomedical AI CDT funded by UKRI."
     },
     {
         "name": "Anima Sutradhar",
@@ -16,8 +57,6 @@
         "role": "PhD student",
         "status": "active",
         "affiliation": "EastBIO CDT, University of Edinburgh",
-        "biography": "I am a PhD student on the EASTBIO DTP, funded jointly by BBSRC and Fujifilm Diosynth Biotechnologies. 
-        I research codon optimisation for heterologous protein expression using machine learning and NLP techniques. Broadly speaking, I am trying to teach computers to understand the
-        language of biological sequences. Prior to this, I completed my BSc in Molecular Biology at UCL, worked as a policy officer on climate change at BEIS, and then completed my Bioinformatics MSc at QMUL. When I am not doing science, I love to star-gaze, hike, write songs and illustrate. My science communication heroes are Jacob Bronowski, Carl Sagan and Kurzgesagt."
+        "biography": "I am a PhD student on the EASTBIO DTP, funded jointly by BBSRC and Fujifilm Diosynth Biotechnologies."
     }
 ]

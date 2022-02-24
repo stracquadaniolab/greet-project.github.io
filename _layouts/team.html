@@ -10,10 +10,25 @@
         <h1>{{page.title}}</h1>
         <p>{{ content }}</p>
 
+        <h3>Scientific advisors</h3>
+        <div class="row p-2 mb-5">
+            {% for people in site.data.people %}
+            {% if people.role == 'advisor' %}
+            <div class="col-1 mb-4">
+                <img class="rounded-circle rounded-sm" src="{{people.pic}}" width="100%" />
+            </div>
+            <div class="col-11 mb-4">
+                <b>{{people.name}}</b><br />
+                <i>{{people.affiliation}}</i><br />
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+
         <h3>Members</h3>
         <div class="row p-2 mb-5">
             {% for people in site.data.people %}
-            {% if people.status != 'alumni' %}
+            {% if people.role != 'advisor' %}
             <div class="col-1 mb-4">
                 <img class="rounded-circle rounded-sm" src="{{people.pic}}" width="100%" />
             </div>
@@ -26,17 +41,6 @@
             {% endfor %}
         </div>
 
-        <h3>Recent alumni</h3>
-        <div>
-            <ul>
-                {% for people in site.data.people %}
-                {% if people.status == 'alumni' %}
-                <li>{{people.name}}, {{people.role}} ({{people.years}}). Research area: {{people.area}}. Now:
-                    <em>{{people.current_position}}</em>.</li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-        </div>
     </div>
     <!-- including footer -->
     {% include _footer.html %}

@@ -3,45 +3,45 @@ layout: default
 title: Research
 ---
 
-High-throughput technologies have generated a deluge of data describing living
-organisms at unprecedented resolution. The wealth and diversity of biological
-data available provide unique opportunities to understand the design principles
-underpinning cellular life. The democratisation of DNA synthesis allow us to use
-these design rules to engineer new designer systems ranging from genes to
-chromosomes.
+Enzymes are proteins catalysing almost all reactions required for cellular life
+and, when defective, they can cause severe pathologies. For example, in humans,
+alpha-galactosidase (a-GAL) deficiency, a condition affecting up to 1 in 3000
+newborn known as Fabry's disease (FD), causes life threatening damage to heart
+and kidneys. Since these diseases are usually caused by inherited genomic
+mutations, they cannot be cured, but they can be treated using Enzyme
+Replacement Therapies (ERTs), which consist of the injection of a recombinant
+version of the affected enzymes into patients. Unfortunately, ERTs have
+limitations; recombinant enzymes have lower enzymatic activity compared to the
+human wild- type versions, are unstable in blood, are poorly absorbed by human
+cells, and often trigger an immune response. Moreover, manufacturing therapeutic
+enzymes is extremely expensive because standard mammalian cell-based expression
+systems have low yield.
 
-Our long term goal is to reverse-engineer biological systems to create
-generative algorithms to design, build and test biochemical agents for addressing
-healthcare and industrial biotechnology problems.
+## Aims
 
-<div class="row">
-    <!-- rare diseases -->
-    <div class="col-12">
-        <h2>Synthetic human enzyme engineering</h2>
-    </div>
-    <div class="col-9 mb-4">
-        Enzymes are building blocks of cellular life and act as natural catalysts able 
-        to accelerate almost any reaction. Enzymatic deficiencies are usually associated 
-        with devastating rare diseases, which can only be treated by providing 
-        the defective enzyme through intravenous injections. However, enzymes loose 
-        catalytic activity in blood and often cause a severe immune response; moreover,
-        current manufacturing technologies have low yield, which dramatically raises the cost of 
-        treatment.<br/>
+Developing effective therapeutic enzymes requires design methods able to
+discover new amino acid sequences that can encode the same catalytic function,
+while optimising the therapeutic properties of the molecule. Then, these enzymes
+must be converted into highly optimised DNA triplets, called codons, to maximise
+expression and yield in host organisms that can grow in inexpensive media. With
+the increasing incidence of enzymatic deficiencies and current treatments
+costing up to £400K per year per patient, it is crucial to establish effective
+methods to perform these tasks and implement a platform for effective and
+sustainable production of therapeutic enzymes.
 
-        Here we are building on our expertise in machine learning and synthetic genomics 
-        to design and build human enzymes at scale. Our goal is to establish technologies 
-        to optimise the therapeutic properties of synthetic enzymes and to engineer 
-        expression systems for inexpensive production of these molecules, in order to 
-        provide new sustainable treatment for patients with rare metabolic disorders.
-    </div>
-    <div class="col">
-        <img src="/images/research-enzyme.png" width="90%">
-    </div>
+## Objectives
 
-</div>
+Here we aim at developing the computational and experimental methods required
+for engineering and manufacturing designer enzymes. We will use deep generative
+machine learning (ML) to design and codon optimise new enzymes, which will then
+be rapidly built and tested at scale using the lab automation platform available
+at the University of Edinburgh (UoE). As a proof of concept, we will build the
+largest library of human a-GAL enzymes, to identify more effective therapeutic
+enzymes for Fabry's disease.
 
 <br/>
 <h2>Funding</h2>
-<img src="/images/logo-epsrc.png" height="84px"/> 
-<img src="/images/logo-fuji.png" height="84px"/> 
-<img src="/images/logo-uoe.png" width="25%"/> 
+<img src="/images/logo-epsrc.png" height="84px"/>
+<img src="/images/logo-fuji.png" height="84px"/>
+<img src="/images/logo-ibioic.png" width="20%"/>
+<img src="/images/logo-uoe.png" width="25%"/>
