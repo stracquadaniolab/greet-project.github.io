@@ -1,19 +1,19 @@
 [
     {
-        "name": "Joel Bader",
-        "area": "Variational Inference",
-        "pic": "/images/team-unk.png",
-        "role": "advisor",
-        "status": "active",
-        "affiliation": "Professor of Biomedical Engineering, Johns Hopkins University"
-    },
-    {
         "name": "Susan Rosser",
         "area": "Biologics production",
         "pic": "/images/team-unk.png",
         "role": "advisor",
         "status": "active",
         "affiliation": "Co-I and Chair in Synthetic Biology, University of Edinburgh"
+    },
+    {
+        "name": "Joel Bader",
+        "area": "Variational Inference",
+        "pic": "/images/team-unk.png",
+        "role": "advisor",
+        "status": "active",
+        "affiliation": "Professor of Biomedical Engineering, Johns Hopkins University"
     },
     {
         "name": "Dominic Campopiano",
