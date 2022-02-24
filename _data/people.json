@@ -8,6 +8,14 @@
         "affiliation": "Professor of Biomedical Engineering, Johns Hopkins University"
     },
     {
+        "name": "Susan Rosser",
+        "area": "Biologics production",
+        "pic": "/images/team-unk.png",
+        "role": "advisor",
+        "status": "active",
+        "affiliation": "Co-I and Chair in Synthetic Biology, University of Edinburgh"
+    },
+    {
         "name": "Dominic Campopiano",
         "area": "Optimisation",
         "pic": "/images/team-unk.png",
@@ -30,14 +38,6 @@
         "role": "advisor",
         "status": "active",
         "affiliation": "Professor in Industrial & Systems Engineering, University of Florida"
-    },
-    {
-        "name": "Susan Rosser",
-        "area": "Biologics production",
-        "pic": "/images/team-unk.png",
-        "role": "advisor",
-        "status": "active",
-        "affiliation": "Chair in Synthetic Biology, University of Edinburgh"
     },
     {
         "name": "Evgenii Lobzaev",
