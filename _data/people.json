@@ -2,7 +2,7 @@
     {
         "name": "Susan Rosser",
         "area": "Biologics production",
-        "pic": "/images/team-unk.png",
+        "pic": "/images/advisor-rosser.jpeg",
         "role": "member",
         "status": "active",
         "affiliation": "Co-I and Chair in Synthetic Biology, University of Edinburgh"
@@ -10,7 +10,7 @@
     {
         "name": "Joel Bader",
         "area": "Variational Inference",
-        "pic": "/images/team-unk.png",
+        "pic": "/images/advisor-bader.jpg",
         "role": "advisor",
         "status": "active",
         "affiliation": "Professor of Biomedical Engineering, Johns Hopkins University"
@@ -18,15 +18,15 @@
     {
         "name": "Dominic Campopiano",
         "area": "Optimisation",
-        "pic": "/images/team-unk.png",
+        "pic": "/images/advisor-campopiano.png",
         "role": "advisor",
         "status": "active",
         "affiliation": "Chair of Industrial Biocatalysis, University of Edinburgh"
     },
     {
         "name": "Pietro Lio'",
-        "area": "Optimisation",
-        "pic": "/images/team-unk.png",
+        "area": "Deep learning",
+        "pic": "/images/advisor-lio.jpeg",
         "role": "advisor",
         "status": "active",
         "affiliation": "Professor, Computer Science and Technology, University of Cambridge"
@@ -34,7 +34,7 @@
     {
         "name": "Panos Pardalos",
         "area": "Optimisation",
-        "pic": "/images/team-unk.png",
+        "pic": "/images/advisor-pardalos.jpg",
         "role": "advisor",
         "status": "active",
         "affiliation": "Professor in Industrial & Systems Engineering, University of Florida"
