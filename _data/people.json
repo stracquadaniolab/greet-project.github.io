@@ -8,6 +8,14 @@
         "affiliation": "Co-I and Chair in Synthetic Biology, University of Edinburgh"
     },
     {
+        "name": "Edinburgh Genome Foundry",
+        "area": "Biologics production",
+        "pic": "/images/advisor-egf.png",
+        "role": "member",
+        "status": "active",
+        "affiliation": "The Edinburgh Genome Foundry, University of Edinburgh"
+    },
+    {
         "name": "Joel Bader",
         "area": "Variational Inference",
         "pic": "/images/advisor-bader.jpg",
